@@ -1,3 +1,4 @@
 sout   string   spring  
 tianjin zhenghao
 private sting name;
+string
